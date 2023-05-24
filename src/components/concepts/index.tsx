@@ -5,7 +5,7 @@ const ConceptsSection = () => {
     <div className="bg-white py-24 sm:py-32" id="concepten">
       <div className="relative isolate px-6 pt-14 lg:px-8">
         <div
-          className="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"
+          className="absolute inset-x-0 -z-10 transform-gpu overflow-hidden blur-3xl"
           aria-hidden="true"
         >
           <div

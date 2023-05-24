@@ -31,6 +31,19 @@ const Section = () => {
             op 3 ideeën en of concepten waarvan wij als team denken dat er
             waarde gecreëerd kan worden voor onze doelgroep, om de
             brandveiligheid voor hen te bevorderen.
+            <br></br>
+            <br></br>
+            Klik op de knop hieronder om onze presentatie te downloaden om meer
+            te weten te komen over ons proces en de concepten.
+            <br></br>
+            <br></br>
+            <a
+              href="/presentatie.pptx.pdf"
+              download="presentatie_firepixels"
+              className="text-base font-semibold leading-7 text-white bg-orange-600 py-2 px-4 rounded-lg hover:bg-orange-700"
+            >
+              Download presentatie
+            </a>
           </p>
         </div>
         <div className="relative mx-auto max-w-2xl">
