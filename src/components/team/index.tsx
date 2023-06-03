@@ -69,6 +69,15 @@ const TeamSection = () => {
             </li>
           ))}
         </ul>
+        <div className="inline-grid col-span-full justify-center">
+          <Image
+            src="/teamfoto.png"
+            alt="team"
+            width={500}
+            height={500}
+            style={{ objectFit: "cover" }}
+          />
+        </div>
       </div>
     </div>
   );
