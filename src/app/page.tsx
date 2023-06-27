@@ -1,8 +1,7 @@
 import HeroSection from "../components/hero";
 import TeamSection from "../components/team";
-import Section from "../components/section";
-import ConceptsSection from "../components/concepts";
 import Footer from "../components/footer";
+import Section from "../components/section";
 
 export default function Home() {
   return (
@@ -10,7 +9,6 @@ export default function Home() {
       <HeroSection />
       <TeamSection />
       <Section />
-      <ConceptsSection />
       <Footer />
     </main>
   );

@@ -7,7 +7,7 @@ import Image from "next/image";
 const navigation = [
   { name: "Over ons", href: "#over" },
   { name: "Proces", href: "#proces" },
-  { name: "Concepten", href: "#concepten" },
+  { name: "Concept", href: "#concept" },
 ];
 
 const HeroSection = () => {
